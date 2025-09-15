@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B88zN4teuHQ=",
+  "dgSpecHash": "Qw3+jThn4Bc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elaine Santos\\Documents\\Projetos .Net\\cadastroCliente\\cadastroCliente\\cadastroCliente.csproj",
+  "projectFilePath": "C:\\Users\\Elaine Santos\\Downloads\\TDD_.NET\\cadastroCliente\\cadastroCliente\\cadastroCliente.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elaine Santos\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Elaine Santos\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

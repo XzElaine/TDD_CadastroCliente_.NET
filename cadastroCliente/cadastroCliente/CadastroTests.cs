@@ -40,7 +40,7 @@ namespace cadastroCliente
         [Fact]
         public void VisualizarClienteComSucesso()
         {
-            foreach (ClienteModel cliente in clientes)
+            foreach (var cliente in clientes)
             {
                 Console.WriteLine("Informações do Cliente: ");
                 Console.WriteLine($"Cliente: {cliente.nome}");

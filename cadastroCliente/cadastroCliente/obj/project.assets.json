@@ -5514,11 +5514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elaine Santos\\Documents\\Projetos .Net\\cadastroCliente\\cadastroCliente\\cadastroCliente.csproj",
+      "projectUniqueName": "C:\\Users\\Elaine Santos\\Downloads\\TDD_.NET\\cadastroCliente\\cadastroCliente\\cadastroCliente.csproj",
       "projectName": "cadastroCliente",
-      "projectPath": "C:\\Users\\Elaine Santos\\Documents\\Projetos .Net\\cadastroCliente\\cadastroCliente\\cadastroCliente.csproj",
+      "projectPath": "C:\\Users\\Elaine Santos\\Downloads\\TDD_.NET\\cadastroCliente\\cadastroCliente\\cadastroCliente.csproj",
       "packagesPath": "C:\\Users\\Elaine Santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elaine Santos\\Documents\\Projetos .Net\\cadastroCliente\\cadastroCliente\\obj\\",
+      "outputPath": "C:\\Users\\Elaine Santos\\Downloads\\TDD_.NET\\cadastroCliente\\cadastroCliente\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
