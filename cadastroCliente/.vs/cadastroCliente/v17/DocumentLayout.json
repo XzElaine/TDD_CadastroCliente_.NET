@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elaine Santos\\Documents\\Projetos .Net\\cadastroCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{847CFA1A-1B3E-479F-8134-124DAEB15A7A}|cadastroCliente\\cadastroCliente.csproj|c:\\users\\elaine santos\\documents\\projetos .net\\cadastrocliente\\cadastrocliente\\cadastrotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847CFA1A-1B3E-479F-8134-124DAEB15A7A}|cadastroCliente\\cadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847CFA1A-1B3E-479F-8134-124DAEB15A7A}|cadastroCliente\\cadastroCliente.csproj|c:\\users\\elaine santos\\documents\\projetos .net\\cadastrocliente\\cadastrocliente\\model\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847CFA1A-1B3E-479F-8134-124DAEB15A7A}|cadastroCliente\\cadastroCliente.csproj|solutionrelative:cadastrocliente\\model\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\Elaine Santos\\Documents\\Projetos .Net\\cadastroCliente\\cadastroCliente\\Model\\ClienteModel.cs",
+              "RelativeDocumentMoniker": "cadastroCliente\\Model\\ClienteModel.cs",
+              "ToolTip": "C:\\Users\\Elaine Santos\\Documents\\Projetos .Net\\cadastroCliente\\cadastroCliente\\Model\\ClienteModel.cs",
+              "RelativeToolTip": "cadastroCliente\\Model\\ClienteModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:38:15.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroTests.cs",
+              "DocumentMoniker": "C:\\Users\\Elaine Santos\\Documents\\Projetos .Net\\cadastroCliente\\cadastroCliente\\CadastroTests.cs",
+              "RelativeDocumentMoniker": "cadastroCliente\\CadastroTests.cs",
+              "ToolTip": "C:\\Users\\Elaine Santos\\Documents\\Projetos .Net\\cadastroCliente\\cadastroCliente\\CadastroTests.cs",
+              "RelativeToolTip": "cadastroCliente\\CadastroTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:26:10.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
